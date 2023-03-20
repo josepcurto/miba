@@ -1,6 +1,6 @@
-# Master en Inteligencia de Negocio y Big Data
+# Master en Inteligencia de Negocio y Big Data Analytics
 
-Repositorio adicional de las asignaturas impartidas en el [Master de Inteligencia de Negocio y Big Data](http://estudios.uoc.edu/es/masters-posgrados-especializaciones/master/informatica-multimedia-telecomunicacion/inteligencia-negocio-big-data/presentacion) de la [UOC](http://www.uoc.edu).
+Repositorio adicional de las asignaturas impartidas en el [Master de Inteligencia de Negocio y Big Data Analytics](https://estudios.uoc.edu/es/masters-posgrados-especializaciones/master/informatica-multimedia-telecomunicacion/inteligencia-negocio-big-data/presentacion) de la [UOC](http://www.uoc.edu).
 
 Este repositorio contiene:
 
